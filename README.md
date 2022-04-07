@@ -36,7 +36,7 @@ The following files are required:
         ---- YourData.content.P        // the features of P GO attributes
         ---- train.map                     // the index of the training node
         ---- vali.map                      // the index of the validation nodes
-        ---- test.map                      // the index of the testing nodes
+        ---- test.map                       // the index of the testing nodes
 
 
 
