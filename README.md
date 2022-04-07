@@ -40,7 +40,7 @@ The following files are required:
 
 
 
-You can see the example in ./3_Node_embedding/model/data
+You can see the example in ./2_Node_embedding/model/data
 
 
 
